@@ -34340,7 +34340,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-group-1 {
   width: 192px;
   min-height: 83px;
-  height: auto;
   margin: -150px 20px 60px auto;
 }
 
@@ -34379,7 +34378,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-3 {
   font-size: 0.75rem;
-  margin: 14px 0 0 auto;
+  margin: 14px 0 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
@@ -34414,7 +34413,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-group-1 {
     margin-top: -150px;
-    height: auto;
   }
 
   .u-footer .u-social-icons-1 {
